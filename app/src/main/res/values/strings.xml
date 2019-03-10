@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QRCodeScan</string>
+    <string name="fruit_name">Fruit Name</string>
+    <string name="fruit_size">Fruit Size</string>
+    <string name="fruit_color">Fruit Color</string>
+</resources>
